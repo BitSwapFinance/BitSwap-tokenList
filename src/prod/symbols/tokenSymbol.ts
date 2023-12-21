@@ -12,4 +12,10 @@ export enum TokenSymbol {
     DOGE= 'DOGE',
     SHIB= 'SHIB',
     WBTC = 'WBTC',
+    AUCTION = 'AUCTION',
+    BSSB = 'BSSB',
+    MUBI = 'MUBI',
+    DAII = 'DAII',
+    ORDI = 'ORDI',
+    SATS = 'SATS',
 }
