@@ -30,7 +30,7 @@
   {
     "name": "Wrapped BTC",
     "symbol": "WBTC",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WBTC.png",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/wbtc.png",
     "chains": [
       1
     ],
@@ -58,7 +58,7 @@
   {
     "name": "Wrapped Ether",
     "symbol": "WETH",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/WETH.png",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/weth.png",
     "chains": [
       1
     ],

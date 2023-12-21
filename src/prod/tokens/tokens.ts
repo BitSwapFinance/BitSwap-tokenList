@@ -43,7 +43,7 @@ export const tokens: TokenInfo[] = [
     {
         name: "Wrapped BTC",
         symbol: TokenSymbol.WBTC,
-        icon: baseURL + 'WBTC.png',
+        icon: baseURL + 'wbtc.png',
         chains: [ChainId.EthereumMainnet],
         contracts: {
             [ChainId.EthereumMainnet]: {
@@ -67,7 +67,7 @@ export const tokens: TokenInfo[] = [
     {
         name: "Wrapped Ether",
         symbol: TokenSymbol.WETH,
-        icon: baseURL + 'WETH.png',
+        icon: baseURL + 'weth.png',
         chains: [ChainId.EthereumMainnet],
         contracts: {
             [ChainId.EthereumMainnet]: {
