@@ -114,7 +114,7 @@
   {
     "name": "Ether",
     "symbol": "ETH",
-    "icon": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png",
     "chains": [
       1
     ],

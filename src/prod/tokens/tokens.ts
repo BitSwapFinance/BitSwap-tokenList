@@ -115,7 +115,7 @@ export const tokens: TokenInfo[] = [
     {
         name: "Ether",
         symbol: TokenSymbol.ETH,
-        icon: 'https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/eth.png',
+        icon: baseURL + 'eth.png',
         chains: [ChainId.EthereumMainnet],
         contracts: {
             [ChainId.EthereumMainnet]: {
