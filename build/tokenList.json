@@ -1,5 +1,75 @@
 [
   {
+    "name": "DAII Token",
+    "symbol": "DAII",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/daii.svg",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0x1981E32C2154936741aB6541a737b87C68F13cE1",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "Bounce Token",
+    "symbol": "AUCTION",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/auction.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "BitStable Finance Token",
+    "symbol": "BSSB",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bssb.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "Multibit Token",
+    "symbol": "MUBI",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mubi.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+        "decimal": 18
+      }
+    }
+  },
+  {
+    "name": "ORDI Multibit Bridge Token",
+    "symbol": "ORDI",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0xe2aE1a99bBd2eFab0a5C38f2146B7aCE61aBC5cE",
+        "decimal": 18
+      }
+    }
+  },
+  {
     "name": "USD Coin",
     "symbol": "USDC",
     "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.svg",
@@ -65,76 +135,6 @@
     "contracts": {
       "1": {
         "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "decimal": 18
-      }
-    }
-  },
-  {
-    "name": "Bounce Token",
-    "symbol": "AUCTION",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/auction.png",
-    "chains": [
-      1
-    ],
-    "contracts": {
-      "1": {
-        "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
-        "decimal": 18
-      }
-    }
-  },
-  {
-    "name": "BitStable Finance Token",
-    "symbol": "BSSB",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bssb.png",
-    "chains": [
-      1
-    ],
-    "contracts": {
-      "1": {
-        "address": "0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
-        "decimal": 18
-      }
-    }
-  },
-  {
-    "name": "Multibit Token",
-    "symbol": "MUBI",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mubi.png",
-    "chains": [
-      1
-    ],
-    "contracts": {
-      "1": {
-        "address": "0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
-        "decimal": 18
-      }
-    }
-  },
-  {
-    "name": "DAII Token",
-    "symbol": "DAII",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/daii.svg",
-    "chains": [
-      1
-    ],
-    "contracts": {
-      "1": {
-        "address": "0x1981E32C2154936741aB6541a737b87C68F13cE1",
-        "decimal": 18
-      }
-    }
-  },
-  {
-    "name": "ORDI Multibit Bridge Token",
-    "symbol": "ORDI",
-    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ordi.png",
-    "chains": [
-      1
-    ],
-    "contracts": {
-      "1": {
-        "address": "0xe2aE1a99bBd2eFab0a5C38f2146B7aCE61aBC5cE",
         "decimal": 18
       }
     }
