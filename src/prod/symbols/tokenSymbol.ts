@@ -18,4 +18,5 @@ export enum TokenSymbol {
     DAII = 'DAII',
     ORDI = 'ORDI',
     SATS = 'SATS',
+    BDID = 'BDID',
 }

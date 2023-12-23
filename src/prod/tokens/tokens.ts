@@ -73,6 +73,18 @@ export const tokens: TokenInfo[] = [
         },
     },
     {
+        name: "BDID Token",
+        symbol: TokenSymbol.BDID,
+        icon: baseURL + 'bdid.png',
+        chains: [ChainId.EthereumMainnet],
+        contracts: {
+            [ChainId.EthereumMainnet]: {
+                address: '0x5016878159e84dadb05bb04135f3eac339ae201f',
+                decimal: 18,
+            },
+        },
+    },
+    {
         name: 'USD Coin',
         symbol: TokenSymbol.USDC,
         icon: baseURL + 'usdc.svg',
