@@ -70,6 +70,20 @@
     }
   },
   {
+    "name": "BDID Token",
+    "symbol": "BDID",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/bdid.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0x5016878159e84dadb05bb04135f3eac339ae201f",
+        "decimal": 18
+      }
+    }
+  },
+  {
     "name": "USD Coin",
     "symbol": "USDC",
     "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.svg",
