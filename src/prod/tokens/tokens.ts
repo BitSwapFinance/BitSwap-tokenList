@@ -85,6 +85,18 @@ export const tokens: TokenInfo[] = [
         },
     },
     {
+        name: "Mog Coin",
+        symbol: TokenSymbol.MOG,
+        icon: baseURL + 'mog.png',
+        chains: [ChainId.EthereumMainnet],
+        contracts: {
+            [ChainId.EthereumMainnet]: {
+                address: '0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a',
+                decimal: 18,
+            },
+        },
+    },
+    {
         name: 'USD Coin',
         symbol: TokenSymbol.USDC,
         icon: baseURL + 'usdc.svg',

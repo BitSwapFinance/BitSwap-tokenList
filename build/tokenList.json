@@ -84,6 +84,20 @@
     }
   },
   {
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mog.png",
+    "chains": [
+      1
+    ],
+    "contracts": {
+      "1": {
+        "address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+        "decimal": 18
+      }
+    }
+  },
+  {
     "name": "USD Coin",
     "symbol": "USDC",
     "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/usdc.svg",
