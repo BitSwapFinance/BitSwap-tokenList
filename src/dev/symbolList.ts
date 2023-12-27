@@ -6,4 +6,5 @@ USDC='USDC',
 USDT='USDT',
 AMMX='AMMX',
 IZI='iZi',
+DAII='DAII',
 }

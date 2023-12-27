@@ -28,6 +28,20 @@
     }
   },
   {
+    "name": "DAII",
+    "symbol": "DAII",
+    "chains": [
+      97
+    ],
+    "icon": "https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/daii.svg",
+    "contracts": {
+      "97": {
+        "address": "0x0490cc2dfCAf599f97a299cAB8D4AE855627A6E9",
+        "decimal": 18
+      }
+    }
+  },
+  {
     "name": "BNB",
     "symbol": "BNB",
     "chains": [

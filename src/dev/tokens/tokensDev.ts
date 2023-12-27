@@ -39,6 +39,18 @@ export const tokens: TokenInfo[] = [
         },
     },
     {
+        name: 'DAII',
+        symbol: TokenSymbol.DAII,
+        chains: [ChainId.BSCTestnet],
+        icon: baseURL + 'daii.svg',
+        contracts: {
+            [ChainId.BSCTestnet]: {
+                address: '0x0490cc2dfCAf599f97a299cAB8D4AE855627A6E9',
+                decimal: 18,
+            },
+        },
+    },
+    {
         name: 'BNB',
         symbol: TokenSymbol.BNB,
         chains: [ChainId.BSCTestnet],

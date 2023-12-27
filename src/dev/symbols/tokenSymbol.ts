@@ -6,4 +6,5 @@ export enum TokenSymbol {
     USDT= 'USDT',
     AMMX = 'AMMX',
     IZI = 'iZi',
+    DAII = 'DAII',
 }
