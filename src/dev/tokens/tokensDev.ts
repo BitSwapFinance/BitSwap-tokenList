@@ -9,7 +9,7 @@ export interface TokenInfo {
     contracts: Partial<Record<ChainId, { address: string; decimal: number }>>;
 }
 
-const baseURL = 'https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/'
+const baseURL = 'https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/'
 
 export const tokens: TokenInfo[] = [
     {
