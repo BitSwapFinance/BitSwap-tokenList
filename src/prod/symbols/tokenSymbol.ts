@@ -1,4 +1,5 @@
 export enum TokenSymbol {
+    AMMX = 'AMMX',
     ETH= 'ETH',
     WETH= 'WETH',
     USDC= 'USDC',

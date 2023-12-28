@@ -13,6 +13,18 @@ const baseURL = 'https://bitswap-finance.oss-ap-southeast-1.aliyuncs.com/tokens/
 
 export const tokens: TokenInfo[] = [
     {
+        name: "AMMX Token",
+        symbol: TokenSymbol.AMMX,
+        icon: baseURL + 'ammx.png',
+        chains: [ChainId.EthereumMainnet],
+        contracts: {
+            [ChainId.EthereumMainnet]: {
+                address: '0xC881255e4D639B42E326158c7b8ccb7F33459261',
+                decimal: 18,
+            },
+        },
+    },
+    {
         name: "DAII Token",
         symbol: TokenSymbol.DAII,
         icon: baseURL + 'daii.svg',
